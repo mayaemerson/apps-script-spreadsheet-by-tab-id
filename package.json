@@ -1,0 +1,18 @@
+{
+  "name": "projeto-sheet-aba-id",
+  "version": "1.0.0",
+  "description": "apps-script get sheet abas pelo id",
+  "main": "index.js",
+  "scripts": {
+    "login": "clasp login",
+    "clone": "clasp clone 1b847Y_NZ9R4ve4_2rvX1BgEfHW62IftC33fgwCcVCLlJOBkW7duo7xhL  --rootDir apps",
+    "logout": "clasp logout",
+    "pull": "clasp pull",
+    "push": "clasp push"
+  },
+  "author": "emerson maia",
+  "license": "ISC",
+  "devDependencies": {
+    "@google/clasp": "^2.4.2",
+    "@types/google-apps-script": "^1.0.84"  }
+}

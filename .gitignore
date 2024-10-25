@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+
+# Arquivos de configuração do Google Apps Script
+.clasp.json
+
+# Arquivos de sistema e caches
+.DS_Store
+Thumbs.db
+.env
+
+# Logs e arquivos de depuração
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
